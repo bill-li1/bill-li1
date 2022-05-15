@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bill-li1
 - 📚 I’m a second year computer science student at the University of Waterloo
-- 💻 Front End Developer at VTS
 - 👀 For more about me, check out https://billli.me/
 - 👨🏻‍💻 Currently seeking Fall 2022 internships!
 
