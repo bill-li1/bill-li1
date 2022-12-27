@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bill-li1
-- 📚 I’m a second year computer science student at the University of Waterloo
+- 📚 I’m a third year computer science student at the University of Waterloo
 - 👀 For more about me, check out https://billli.me/
-- 👨🏻‍💻 Currently seeking Fall 2022 internships!
+- 👨🏻‍💻 Currently seeking Winter 2024 internships!
 
 <!---
 bill-li1/bill-li1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
