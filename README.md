@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bill-li1
-- 📚 I’m a third year computer science student at the University of Waterloo
+- 📚 I’m a fourth year computer science student at the University of Waterloo
 - 👀 For more about me, check out https://billli.me/
 - 👨🏻‍💻 Currently seeking Winter 2024 internships!
 
